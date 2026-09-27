@@ -1,6 +1,6 @@
 # Construction reference
 
-Release: `4c0e7085ed767ed79ddca5f8fa7727a0c87e3040e298393a6b163a7bf47ff93a`.
+Release: `1e7dec1c476ee75a57e39e1bdaba063ac8adbe8a7185f59e015e07ea26be1b4d`.
 
 Selected extracted facts. Gameplay verification and complete coverage remain unfinished.
 
@@ -94,3 +94,39 @@ Selected extracted facts. Gameplay verification and complete coverage remain unf
 - [construction-rule/0046.md](construction-rule/0046.md)
 - [construction-rule/0047.md](construction-rule/0047.md)
 - [construction-rule/0048.md](construction-rule/0048.md)
+- [construction-rule/0049.md](construction-rule/0049.md)
+- [construction-rule/0050.md](construction-rule/0050.md)
+- [construction-rule/0051.md](construction-rule/0051.md)
+- [construction-rule/0052.md](construction-rule/0052.md)
+- [construction-rule/0053.md](construction-rule/0053.md)
+- [construction-rule/0054.md](construction-rule/0054.md)
+- [construction-rule/0055.md](construction-rule/0055.md)
+- [construction-rule/0056.md](construction-rule/0056.md)
+- [construction-rule/0057.md](construction-rule/0057.md)
+- [construction-rule/0058.md](construction-rule/0058.md)
+- [construction-rule/0059.md](construction-rule/0059.md)
+- [construction-rule/0060.md](construction-rule/0060.md)
+- [construction-rule/0061.md](construction-rule/0061.md)
+- [construction-rule/0062.md](construction-rule/0062.md)
+- [construction-rule/0063.md](construction-rule/0063.md)
+- [construction-rule/0064.md](construction-rule/0064.md)
+- [construction-rule/0065.md](construction-rule/0065.md)
+- [construction-rule/0066.md](construction-rule/0066.md)
+- [construction-rule/0067.md](construction-rule/0067.md)
+- [construction-rule/0068.md](construction-rule/0068.md)
+- [construction-rule/0069.md](construction-rule/0069.md)
+- [construction-rule/0070.md](construction-rule/0070.md)
+- [construction-rule/0071.md](construction-rule/0071.md)
+- [construction-rule/0072.md](construction-rule/0072.md)
+- [construction-rule/0073.md](construction-rule/0073.md)
+- [construction-rule/0074.md](construction-rule/0074.md)
+- [construction-rule/0075.md](construction-rule/0075.md)
+- [construction-rule/0076.md](construction-rule/0076.md)
+- [construction-rule/0077.md](construction-rule/0077.md)
+- [construction-rule/0078.md](construction-rule/0078.md)
+- [construction-rule/0079.md](construction-rule/0079.md)
+- [construction-rule/0080.md](construction-rule/0080.md)
+- [construction-rule/0081.md](construction-rule/0081.md)
+- [construction-rule/0082.md](construction-rule/0082.md)
+- [construction-rule/0083.md](construction-rule/0083.md)
+- [construction-rule/0084.md](construction-rule/0084.md)
