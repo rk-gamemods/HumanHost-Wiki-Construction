@@ -1,0 +1,16 @@
+{
+  "checked_at": "2026-10-08T03:11:09+00:00",
+  "default_status": "missing",
+  "entries": [],
+  "kinds": [],
+  "observation_id": "cacbdd95ed605da5be1040c01bd7a02dc34cdaf78b53ff345171541b2a30581d",
+  "schema_version": 1,
+  "topics": [
+    {
+      "checked_at": "2026-10-08T03:11:09+00:00",
+      "reason": "absent-from-complete-index",
+      "status": "missing",
+      "title": "Human Host:Guides/Base Building"
+    }
+  ]
+}
